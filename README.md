@@ -1,2 +1,2 @@
-# Integracion Mecado Pago
+# Integracion Mecado Pago CheckoutPro
 
